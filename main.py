@@ -1,0 +1,2 @@
+ptint('Variant KRYT')
+input()
